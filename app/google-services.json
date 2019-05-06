@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "117586261926",
+    "firebase_url": "https://ezvents-12a82.firebaseio.com",
+    "project_id": "ezvents-12a82",
+    "storage_bucket": "ezvents-12a82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117586261926:android:77676b9190c0c04a",
+        "android_client_info": {
+          "package_name": "com.reverse.ezvents1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117586261926-ef8ulp25brmng3qsq96vfjdh3afv19uk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr9sfU0UcdW7b__6b9xS3pXvzv38Z8Oxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117586261926-ef8ulp25brmng3qsq96vfjdh3afv19uk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
