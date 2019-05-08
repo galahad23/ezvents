@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">EZVENTS1</string>
+    <string name="app_name">EZVENTS</string>
+    <string name="app_description">A Catalog and Directory App</string>
 </resources>
